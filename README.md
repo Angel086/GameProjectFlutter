@@ -1,5 +1,5 @@
-To run the app use flutter run with null
-  -> flutter run --no-sound-null-safety 
+#To run the app use flutter run with null
+ <p> -> flutter run --no-sound-null-safety </p>
 <p>Sources Used to build the app:</p>
 <p>Qustions:</p>
   <p> https://groupgames101.com/food-trivia/ </p>
