@@ -11,6 +11,6 @@
   <p> https://youtube.com/watch?v=Nhy0VWAMsFU&feature=share </p>
    <p>https://youtu.be/bFbR5p1a8WA </p>
     <p> -Repod of youtube tutorial:</p>
-     <p>  https://github.com/bimalkaf/Flutter_Simple_Quiz_App/blob/master/lib/quiz_screen.dart</p>
+     <p> https://github.com/bimalkaf/Flutter_Simple_Quiz_App/blob/master/lib/quiz_screen.dart</p>
    <p>Stackoverflow:</p>
    <p>https://stackoverflow.com/questions/59378267/flutter-provider-setstate-or-markneedsbuild-called-during-build</p>
