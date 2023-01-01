@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "309594512779",
+    "project_id": "game-project-d6546",
+    "storage_bucket": "game-project-d6546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309594512779:android:8c7496b64f6eeb89ede38e",
+        "android_client_info": {
+          "package_name": "com.example.game_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309594512779-pvrhovhkprpmdhn66kkd3l2ubbgu845t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-3tkAQ4ESpgqcjqnqveeRp8Gwydwv16c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309594512779-pvrhovhkprpmdhn66kkd3l2ubbgu845t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309594512779-se3lsc1v6eej8ovgmhlh37v6o1lbfuku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
